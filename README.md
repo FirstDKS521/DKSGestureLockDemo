@@ -1,6 +1,6 @@
 #iOS开发：手势锁
 
-![效果图.png](http://upload-images.jianshu.io/upload_images/1840399-5238d5a0301e6f08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![效果图.png](http://upload-images.jianshu.io/upload_images/1840399-b9516104feed8398.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 思路：先布局九个`UIButton `并设置背景图片，然后给当前视图添加欢动手势`UIPanGestureRecognizer`，手势触碰到的UIButton更换背景图片；
 
